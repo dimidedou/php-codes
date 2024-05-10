@@ -1,5 +1,5 @@
 <?php
-echo '<link rel="stylesheet" href="donwload-github.css">';
+echo '<link rel="stylesheet" href=" https://dimidedou.github.io/php-codes//css/donwload-github.css">';
 echo '<h1>Donwload GitHub</h1>';
 echo '<form method="POST">
             URL GitHub <br><br> <input class="myforms" type="text" name="zip_url" required> <br><br>
