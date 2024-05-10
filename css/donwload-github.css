@@ -1,0 +1,20 @@
+body{
+    background-color: black;
+    color: white;
+    margin: 0;
+    text-align: center;
+    margin-top: 0;
+    font-size: 40px;
+}
+
+.submint{
+    height: 50px;
+    width: 200px;
+    border-radius: 30px;
+
+}
+
+.myforms{
+    width: 500px;
+    border: 10px;
+}
